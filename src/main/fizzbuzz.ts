@@ -23,3 +23,4 @@ const isDivideBy5_OrContains5 = (num: number): boolean => {
     return num % 5 == 0 || String(num).includes("5");
 }
 
+// hello
