@@ -1,0 +1,14 @@
+{
+  "name": "codingkata",
+  "version": "1.0.0",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^2.1.4"
+  }
+}
